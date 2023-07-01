@@ -1,0 +1,17 @@
+.imglogo{
+    max-width: 1068px;
+    margin: auto;
+    width: 40%;
+    margin-top: 13%;
+  }
+
+  /* personagens */
+  .personagens-container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  } 
+
+  
